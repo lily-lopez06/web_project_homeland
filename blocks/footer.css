@@ -1,0 +1,20 @@
+.footer {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    color: #ffff;
+    position: relative;
+}
+.footer__copyrigth {
+    max-width: 194px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: right;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    position: absolute;
+    bottom: 20px;
+}
