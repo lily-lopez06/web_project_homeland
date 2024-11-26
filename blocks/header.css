@@ -35,24 +35,26 @@
 .header__image {
     max-width: 984px;
     max-height: 615px;
-    margin: 64px auto 0;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
+    .header {
+        max-width: 320px;
+        margin: auto;
+    }
     .header__title {
-        max-width: 228px;
         font-size: 40px;
         line-height: 44px;
     }
 
     .header__subtitle {
-        max-width: 288px;
         font-size: 16px;
         line-height: 20px;
+        margin: 16px auto 40px;
     }
 
     .header__image {
-        max-width: 303px;
+        max-width: 320px;
     }
 }
 
@@ -61,15 +63,15 @@
         max-width: 720px;
     }
     .header__title {
+        width: 707px;
         font-size: 75px;
         line-height: 79px;
     }
     .header__subtitle {
-        margin: 25px auto 0;
+        margin: 25px auto 30px;
     }
 
     .header__image {
-        max-width: 720px;
-        margin: 30px auto;
+        max-width: 768px;
     }
 }
