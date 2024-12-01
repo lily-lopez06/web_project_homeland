@@ -4,7 +4,6 @@
     justify-content: center;
     box-sizing: border-box;
     color: #ffff;
-    position: relative;
 }
 .footer__copyrigth {
     max-width: 194px;
@@ -13,7 +12,5 @@
     font-weight: 400;
     line-height: 16px;
     text-align: right;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
-    margin: 92px auto 24px;
+    margin-bottom: 35px;
 }
