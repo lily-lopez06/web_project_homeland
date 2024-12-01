@@ -34,7 +34,7 @@
         margin: 64px auto 0;
     }
 
-    .gallery_item {
+    .gallery__item {
         max-width: 352px;
     }
 }
