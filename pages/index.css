@@ -4,5 +4,6 @@
 @import url("../blocks/content.css");
 @import url("../blocks/main.css");
 @import url("../blocks/footer.css");
-@import url("../blocks/container.css");
+@import url("../blocks/gallery.css");
 @import url("../blocks/places.css");
+@import url("../blocks/city.css");
