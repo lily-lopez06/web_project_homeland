@@ -3,7 +3,7 @@
 }
 .places__title {
     max-width: 380px;
-    font-family: "inter-black";
+    font-family: "Inter-Black";
     font-size: 50px;
     font-weight: 900;
     line-height: 72px;
@@ -36,7 +36,7 @@
 }
 
 .places__button {
-    font-family: Inter;
+    font-family: "Inter-Regular";
     font-size: 18px;
     font-weight: 600;
     border: none;
