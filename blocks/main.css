@@ -1,8 +1,8 @@
 .main {
-    font-family: "inter";
+    font-family: "Inter-Regular";
 }
 .main__title {
-    font-family: "inter-black";
+    font-family: "Inter-Black";
     font-size: 54px;
     font-weight: 900;
     line-height: 58px;
@@ -10,7 +10,7 @@
 }
 
 .main__text-1 {
-    font-family: "inter";
+    font-family: "Inter-Regular";
     font-size: 24px;
     font-weight: 400;
     line-height: 34px;
@@ -19,7 +19,7 @@
 }
 
 .main__text-author {
-    font-family: "inter"
+    font-family: "Inter-Regular";
     font-size: 24px;
     font-weight: 400;
     line-height: 34px;
@@ -29,7 +29,7 @@
 }
 
 .main__text-2 {
-    font-family: "inter";
+    font-family: "Inter-Regular";
     font-size: 16px;
     font-weight: 400;
     line-height: 26.08px;
